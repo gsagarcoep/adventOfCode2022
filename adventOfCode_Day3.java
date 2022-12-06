@@ -4,7 +4,7 @@ import java.util.*;
 public class Test {
     public static void main(String[] args) throws Exception {
         File file = new File(
-                "/Volumes/workplace/test/src/adventOfCode_input");
+                "adventOfCode_input");
 
         BufferedReader br = new BufferedReader(new FileReader(file));
 
